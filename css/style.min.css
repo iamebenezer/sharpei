@@ -3237,7 +3237,7 @@ body._lock {
     }
     .main__dialog {
         top: 0;
-        left: 10%;
+        left: -2%;
         transform: translate(0, -50%) scale(0)
     }
     .main__dialog::after {
